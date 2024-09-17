@@ -1,0 +1,17 @@
+{
+  "name": "gsap_animations",
+  "version": "1.0.0",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@types/gsap": "^3.0.0",
+    "gsap": "^3.12.5"
+  }
+}
